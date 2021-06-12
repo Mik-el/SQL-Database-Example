@@ -1,7 +1,7 @@
 # SQL Database Example
 ## Disclaimer
 1) The code I'm sharing contains comments and variable names in italian. (but maybe you'll result to understand since the code is quite easy) 
-2) The codes could have errors. If you find them you can use Github you can fix the code. Thank you!
+2) The codes could have errors. If you find them you can use Github to fix it. Thank you!
 
 ## What is SQL
 SQL (Structured Query Language ) is a programming langauge to manage data held in a relational database management system (RDBMS).
